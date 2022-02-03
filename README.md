@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220"  />
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="576"  />
 
 # <div align="center"> Hello <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="25px"/>, I'm Yasar Arafath</div>
 
