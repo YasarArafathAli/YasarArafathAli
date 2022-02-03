@@ -4,30 +4,23 @@
 
   <br/>
 
+
+- Heya! I'm Yasar Arafath, a student currently living in Hyderabad, India, and I am a Web Developer
+
 - 🔭 I’m currently working on Skills 🚀
-
-- ❓ Ask me about anything related to MERN stack and related technologies 💻
-
 ---
 
 # Skill Set
-
-<div align="center">
-
-| React                                                                                                                                | CSS3                                                                                                                               | HTML                                                                                                                                 | Javascript                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /> | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" /> | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" /> |
-
-| Node js                                                                                                                                 | express js                                                                                                                   | MongoDb                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /> | <img style="margin: 10px" src="https://miro.medium.com/max/100/1*8ETcaw-gA1dYW4EFxqGK3w.png" alt="Express.js" height="80" /> | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" /> |
-
-| Devops                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /> |
-
-## </div>
-
+<div align = "center">
+  
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src=https://media3.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif width="105">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src=https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">  
+  <img src=https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b7611726876056729ed7f9dbac08b9bd90889148c95b5&rid=giphy.gif&ct=s width="105"></p>
+  
+</div>
 # Github Stats 📉
 
 <p align="center">
@@ -37,6 +30,9 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasararafathali&count_private=false&theme=dark" alt="Jas-Script" />
  <br/>
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasararafathali&theme=dark&layout=compact&hide=jupyter%20notebook,html" /></p>
+  <p>
 
 ---
 
@@ -53,7 +49,7 @@
 # Connect with me 🚀
 
 <div align="center">
-<a href="https://github.com/yasarafathali" target="_blank">
+<a href="https://github.com/yasararafathali" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/yasarafathali/" target="_blank">
