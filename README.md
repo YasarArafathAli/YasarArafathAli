@@ -5,9 +5,9 @@
   <br/>
 
 
-- Heya! I'm Yasar Arafath, a student currently living in Hyderabad, India, and I am a Web Developer
+- Heya! I'm Yasar Arafath, a software Developer living in Hyderabad, India, and I am a Web Developer
 
-- 🔭 I’m currently working on Skills 🚀
+- 🔭 I am a part-time Tutor, and full time Learner🚀
 ---
 
 # Skill Set
