@@ -60,7 +60,7 @@
 </a>
 
 
-<a href="https://www.twitter.com/theyasararafath" target="_blank">
+<a href="https://www.twitter.com/YasarrArafathh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
 </a>
 
