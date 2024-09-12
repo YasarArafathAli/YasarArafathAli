@@ -31,7 +31,7 @@
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasararafathali&count_private=false&theme=dark" alt="Jas-Script" />
  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasararafathali&theme=dark&layout=hidden&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasararafathali&theme=dark&hide_progress=true&hide=jupyter%20notebook" />
   <br />
 </p>
 
