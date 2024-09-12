@@ -5,7 +5,7 @@
   <br/>
 
 
-- Heya! I'm Yasar Arafath, a software Developer living in Hyderabad, India, and I am a Web Developer
+- Heya! I'm Yasar Arafath, a software Developer living in Hyderabad, India.
 
 - 🔭 I am a part-time Tutor, and full time Learner🚀
 ---
@@ -31,7 +31,7 @@
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasararafathali&count_private=false&theme=dark" alt="Jas-Script" />
  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasararafathali&theme=dark&layout=compact&hide=jupyter%20notebook,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasararafathali&theme=dark&layout=hidden&hide=jupyter%20notebook" />
   <br />
 </p>
 
