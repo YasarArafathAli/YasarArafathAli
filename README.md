@@ -26,7 +26,7 @@
 # Github Stats 📉
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasararafathali&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=yasararafathali&theme=dark&show_icons=true&include_all_commits=true" alt="shwetangStats" />  
   <br />
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasararafathali&count_private=false&theme=dark" alt="Jas-Script" />
